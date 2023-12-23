@@ -15,6 +15,18 @@ const Dashboard = () => {
           buttonText: "Button 1",
           dropdownOptions: ["Option 1", "Option 2", "Option 3"]
         },
+        {
+            title: "Card 2",
+            imageUrl: "/path-to-your-image.jpg",
+            buttonText: "Button 1",
+            dropdownOptions: ["Option 1", "Option 2", "Option 3"]
+          },
+          {
+            title: "Card 3",
+            imageUrl: "/path-to-your-image.jpg",
+            buttonText: "Button 1",
+            dropdownOptions: ["Option 1", "Option 2", "Option 3"]
+          },
         // ... Add data for other cards
       ];
  
